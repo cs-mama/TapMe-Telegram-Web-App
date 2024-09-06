@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: fangsong;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(#260237, #0c08fb);
+  background-repeat: no-repeat;  
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
